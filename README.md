@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I’m Victor Rodriguez</h1>
 <h3 align="center">a full stack developer, currently focused on enhancing my skills</h3>
 
+
 - 🔭 I’m currently working on **Orbita Ingenieria**
 
 - 🌱 I’m currently learning **Angular new versions**
